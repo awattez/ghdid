@@ -1,0 +1,4 @@
+{"label":"console","level":"error","message":"Command failed: git clone git@github.com:awattez/ghdid.git /root/.github-did/ghdid:\nfatal: destination path '/root/.github-did/ghdid' already exists and is not an empty directory.\n","timestamp":"2022-01-25 21:34:38"}
+{"label":"console","level":"info","message":"Create and publish did:github:awattez with github-did cli.","timestamp":"2022-01-25 21:35:06"}
+{"label":"console","level":"info","message":"Config created /root/.github-did/config.json","timestamp":"2022-01-25 21:35:07"}
+{"label":"console","level":"info","message":"did:github:awattez is resolved","timestamp":"2022-01-25 21:38:04"}

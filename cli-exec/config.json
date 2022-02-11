@@ -1,0 +1,8 @@
+{
+  "name": "github-did-config",
+  "version": "0.0.5",
+  "wallet": "/root/.github-did/wallet.enc",
+  "webWallet": "/root/.github-did/web.wallet.enc",
+  "logs": "/root/.github-did/log.json",
+  "repoUrl": "https://github.com/awattez/ghdid"
+}
